@@ -14,7 +14,7 @@
   🎓 I'm pursuing a degree in Computer Education at UFRPE (Federal Rural University of Pernambuco).
   <br/>
   <br/>
-  <strong>Let's build something amazing together! 🚀</strong>
+  <strong>Portfolio App is On Going ⚙️⚙️⚙️</strong>
 </section>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
