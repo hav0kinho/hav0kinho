@@ -3,7 +3,7 @@
 
 <section align="center">
   <h2>About Me 🔥 🙋🏻‍♂️</h2>
-  👋 Hi there! I'm a Full-Stack developer passionate about technology and solving great challenges using tech. My journey began as a Freelancer and now I'm part of Mugen Solutions, where I'm consolidating my knowledge in system development.
+  👋 Hi there! I'm a Full-Stack developer passionate about technology and solving great challenges using tech. My journey began as a Freelancer and now I'm part of Mugen Solutions, where I'm consolidating my knowledge in system development and tutoring.
   
   <br/>
   <br/>
