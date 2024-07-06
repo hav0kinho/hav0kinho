@@ -8,7 +8,7 @@
   <br/>
   <br/>
   
-  👨‍💻 In addition to back-end and front-end systems, I'm also an enthusiast of game development. Currently, my focus is on creating Full-Stack web-based systems, especially on the Back-end usign NodeJS.
+  👨‍💻 In addition to back-end and front-end systems, I'm also an enthusiast of game development. Currently, my focus is on creating Full-Stack web-based systems, especially on the Back-end using NodeJS.
   <br/>
 
   🎓 I'm pursuing a degree in Computer Education at UFRPE (Federal Rural University of Pernambuco).
